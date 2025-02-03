@@ -21,4 +21,4 @@ Este es un proyecto desarrollado con **React** para la gestión de pacientes en 
 ✔️ Implementación de notificaciones con Notify  
 
 ## 📷 Captura de Pantalla
-![Vista previa del proyecto](public/Captura de pantalla 2025-02-04 a las 0.08.36.png)
+![Vista previa del proyecto](public/capApp.png)
